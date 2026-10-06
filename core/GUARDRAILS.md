@@ -12,6 +12,20 @@ If a model repeatedly fails evidence, revise or discard it.
 - 🟡 **Hypothesis** — plausible but unconfirmed.
 - 🔴 **Unsupported** — currently lacks adequate evidence.
 
+## Minimum Claim Rules
+- Do not present a transformation chain as a continuous identity unless the sources support continuity.
+- Do not treat similarity, name resemblance, or symbolic overlap as ancestry.
+- Do not cite a later reception history as evidence for an earlier period.
+- Do not let a personal teaching carry historical claims that the historical record has not earned.
+- Do not add private material to solve a public research problem.
+
+## Page-level Status
+Every growing page should declare:
+- **Page type:** entity, text, concept, field note, source record, or index.
+- **Claim status:** strongest status currently justified by the page.
+- **Source posture:** unsourced scaffold, source-gathering, cited draft, or verified.
+- **Private boundary:** public-safe, redacted, or do-not-publish.
+
 ## Similarity Rule
 > Similarity earns comparison. It does not establish ancestry.
 

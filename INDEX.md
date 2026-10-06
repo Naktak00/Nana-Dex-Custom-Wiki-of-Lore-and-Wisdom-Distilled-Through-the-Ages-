@@ -1,11 +1,17 @@
 # Nana-Dex Index
 
-## 0 — Method
+## 0 — How to Read the Library
+- [Repository Architecture](meta/ARCHITECTURE.md)
 - [Logic Through Life](core/LOGIC-THROUGH-LIFE.md)
 - [Epistemic Guardrails](core/GUARDRAILS.md)
+- [Claim Status Vocabulary](core/GUARDRAILS.md#classification-marks)
+- [Source Records](sources/README.md)
+- [Templates](templates/README.md)
 
-## 1 — Xen
+## 1 — Core Models
 - [Xen Logic](core/XEN.md)
+- [Probability Manipulation](core/LOGIC-THROUGH-LIFE.md#probability-manipulation)
+- [Counter-spells](core/LOGIC-THROUGH-LIFE.md#counter-spells)
 
 ## 2 — GodDex
 - [Taxonomy](goddex/TAXONOMY.md)
@@ -18,11 +24,12 @@
 ## 4 — Field Notes
 - [The Light at the Desk](field-notes/LIGHT-AT-THE-DESK.md)
 
-## 5 — Open Questions
-- What does the title “Little/Lesser Key” historically signify?
-- Which Goetic names have strong, weak, or unsupported links to earlier deities?
-- How do symbols survive migration between language, ritual, manuscript, print, film, databases, and AI?
-- When does a useful analogy become a false genealogy?
+## 5 — Maintenance
+- [Research Queue](meta/RESEARCH-QUEUE.md)
+- [Mana V2 AAR](meta/AAR-MANA-V2.md)
+
+## 6 — Open Questions
+Open questions live in the [Research Queue](meta/RESEARCH-QUEUE.md) so they can carry owner/status/source fields instead of becoming a loose list.
 
 ## Versioning
 **v1.0:** make it.  

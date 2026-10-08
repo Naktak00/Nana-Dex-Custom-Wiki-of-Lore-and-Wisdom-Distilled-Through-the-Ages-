@@ -10,6 +10,7 @@
 
 ## 1 — Core Models
 - [Xen Logic](core/XEN.md)
+- [The Xen Paradox — Boredom → Curiosity → Creation](core/XEN-PARADOX.md)
 - [Probability Manipulation](core/LOGIC-THROUGH-LIFE.md#probability-manipulation)
 - [Counter-spells](core/LOGIC-THROUGH-LIFE.md#counter-spells)
 

@@ -9,6 +9,9 @@ Updated 2026-10-14. This is a recurring **checklist**, not a scheduled reminder 
 - On another day, resume from the checkpoint or switch to a different project. Do not treat a checklist tick as verified completion.
 - If an urgent production fix requires an exception, log it explicitly.
 
+## Participant coordination
+- [Personal Task Logs — Nana, Lightning, Mana](PERSONAL-TASK-LOGS.md) — current focus, blockers, help opportunities and handoffs; current state only.
+
 ## Projects
 - [FLC — recurring development checklist](FLC.md) | [Private implementation repository](https://github.com/Naktak00/flc-platform)
 - [Lightning Pong — recurring development checklist](LIGHTNING-PONG.md) | Implementation location to verify with Mana

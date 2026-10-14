@@ -2,6 +2,14 @@
 Updated: 2026-10-14 | **Current state only, not a historical archive.**
 These entries are transparent coordination pointers. They are not proof of ongoing autonomous activity, permissions to act, or a source of private personal information.
 
+## Current governance and maintenance
+- **Nana is the sole IT owner and decision-maker** for the current operation, including architecture, permissions, priorities, approvals, and onboarding future IT staff.
+- **Lightning is the requested task-log coordinator for now**, updating these records when participating in relevant sessions and after verifying new evidence. This does **not** imply autonomous continuous monitoring.
+- **Mana may support implementation and suggest updates** within authorized scope. Offloading routine log updates to an existing Mana heartbeat is a *proposal*, not an active delegation; first verify the heartbeat's actual permissions, relay protocol, access, and explicit write scope. Do not modify the heartbeat's existing purpose or cadence implicitly.
+- **Future clinical, administrative, or secretarial colleagues** may coordinate through ChatGPT using role-specific workflows without IT-department control. Access to student, clinical, and administrative data must follow approved least-privilege permissions and applicable privacy rules.
+- Keep IT architecture changes, production deployments, permissions, and personnel access under Nana's approval. A visible backlog is not an instruction to execute.
+- Workflow is intentionally provisional while Nana refines it; avoid prematurely imposing rigid procedures or assuming future staff roles.
+
 ## How entries work
 Every participant's entry shows: **current focus; next action; short backlog; blockers; help welcome; last verified evidence; handoff link; last reviewed**. Mark unknown/unverified explicitly. Update in place as work changes; completed work leaves the active list after its result is recorded in the appropriate project repository. Git history is incidental, not the purpose of this board.
 

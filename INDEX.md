@@ -27,6 +27,7 @@
 
 ## 5 — Active Work
 - [Project Switchboard](active-work/README.md)
+- [Personal Task Logs — Nana, Lightning, Mana](active-work/PERSONAL-TASK-LOGS.md)
 - [FLC Recurring Dev Checklist](active-work/FLC.md)
 - [Lightning Pong Recurring Dev Checklist](active-work/LIGHTNING-PONG.md)
 - [Daily Branch Handoff](active-work/DAILY-HANDOFF.md)

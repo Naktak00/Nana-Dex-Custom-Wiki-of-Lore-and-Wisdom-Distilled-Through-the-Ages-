@@ -25,11 +25,17 @@
 ## 4 — Field Notes
 - [The Light at the Desk](field-notes/LIGHT-AT-THE-DESK.md)
 
-## 5 — Maintenance
+## 5 — Active Work
+- [Project Switchboard](active-work/README.md)
+- [FLC Recurring Dev Checklist](active-work/FLC.md)
+- [Lightning Pong Recurring Dev Checklist](active-work/LIGHTNING-PONG.md)
+- [Daily Branch Handoff](active-work/DAILY-HANDOFF.md)
+
+## 6 — Maintenance
 - [Research Queue](meta/RESEARCH-QUEUE.md)
 - [Mana V2 AAR](meta/AAR-MANA-V2.md)
 
-## 6 — Open Questions
+## 7 — Open Questions
 Open questions live in the [Research Queue](meta/RESEARCH-QUEUE.md) so they can carry owner/status/source fields instead of becoming a loose list.
 
 ## Versioning
